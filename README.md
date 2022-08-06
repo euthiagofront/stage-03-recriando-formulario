@@ -8,7 +8,7 @@ Nesse abordaremos:
 - Campo checkbox;
 - Imagem centralizada no header.
 
-![2022-08-06 00-10-42](https://user-images.githubusercontent.com/65739291/183231290-2c782b98-401a-4c5a-90dd-fce5d228ff84.gif)
+![Untitled (2)](https://user-images.githubusercontent.com/65739291/183238699-9efff90d-623d-41f8-afd6-0c171a1326c8.gif)
 
 Link do projeto completo: [https://avaliacao-mentoria.netlify.app](url)
 
